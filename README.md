@@ -6,12 +6,10 @@ Download these 100% free file format icons, designed specifically for modern web
 https://www.untitledui.com/resources/file-icons
 
 ```
-// Single style barrel
 import { ZipIcon } from "./file-type-icons/default/jsx";
 ```
 
 ```
-// Top-level namespaced barrel
 import { defaultStyle, gray, solid } from "./file-type-icons";
 
 <defaultStyle.ZipIcon width={48} />
